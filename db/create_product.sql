@@ -1,0 +1,1 @@
+INSERT INTO inventory (name, price, img_url) VALUES( $1, $2, $3)
